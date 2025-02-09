@@ -1,5 +1,4 @@
-# Cloud-Performance-Monitor
-A real-time performance monitoring system for cloud services built with Spring Boot, Prometheus, and Grafana.
+
 # Cloud Performance Monitor
 
 A real-time performance monitoring system for cloud services built with Spring Boot, Prometheus, and Grafana.
